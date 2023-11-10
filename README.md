@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android 😀 X Kotlin 😄 X Flutter😉 X Dart😎**
 
-- 📫 How to reach me **67AnkitX@gmail.com**
+- 📫 How to reach me **12AnkitX@gmail.com**
 
 - ⚡ Fun fact **Android Studio also lag sometimes in macbook 😅**
 
